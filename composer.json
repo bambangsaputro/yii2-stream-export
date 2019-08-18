@@ -1,0 +1,25 @@
+    
+{
+    "name": "bambang/yii2-stream-export",
+    "description": "csv export using stream",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "extension"
+    ],
+    "license": "MIT",
+    "authors": [{
+            "name": "Bambang Saputro",
+            "email": "my.bambangsaputro@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "symfony/http-foundation": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "bambang\\export\\": "src"
+        }
+    }
+}
