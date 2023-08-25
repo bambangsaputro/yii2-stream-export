@@ -1,1 +1,1 @@
-Export
+Yii2 stream export extension 
